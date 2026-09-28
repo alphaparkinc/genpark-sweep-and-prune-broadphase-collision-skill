@@ -1,0 +1,6 @@
+name: genpark-sweep-and-prune-broadphase-collision-skill
+version: 1.0.0
+description: Sweep-and-Prune broadphase collision algorithm sorting axis-aligned bounding boxes (AABBs)
+command: python
+args:
+  - mcp_server.py
