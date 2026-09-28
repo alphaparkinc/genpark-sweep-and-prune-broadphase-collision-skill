@@ -1,0 +1,20 @@
+{
+  "name": "genpark-sweep-and-prune-broadphase-collision-skill",
+  "version": "1.0.0",
+  "description": "Sweep-and-Prune broadphase collision algorithm sorting axis-aligned bounding boxes (AABBs)",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "sweep-and-prune",
+    "broadphase-collision",
+    "aabb",
+    "spatial-sorting",
+    "physics-engine",
+    "python-standard-library",
+    "agent-skills",
+    "computational-geometry",
+    "collision-filtering",
+    "interval-overlap"
+  ]
+}
